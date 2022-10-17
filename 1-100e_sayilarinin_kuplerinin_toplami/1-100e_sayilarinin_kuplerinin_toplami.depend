@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665683451 source:c:\users\kenan\desktop\c algoritma ve çözümleri\1-100e_sayilarinin_kuplerinin_toplami\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

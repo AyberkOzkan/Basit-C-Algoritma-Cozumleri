@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665750729 source:c:\users\kenan\desktop\c algoritma ve çözümleri\decimal_binary_donustur\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

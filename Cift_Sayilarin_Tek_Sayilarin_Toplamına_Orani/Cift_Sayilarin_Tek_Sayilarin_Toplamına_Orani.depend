@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665691116 source:c:\users\kenan\desktop\c algoritma ve çözümleri\cift_sayilarin_tek_sayilarin_toplamýna_orani\main.c
+	<stdio.h>
+	<conio.h>
+

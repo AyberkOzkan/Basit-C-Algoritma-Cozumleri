@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665786892 source:c:\users\kenan\desktop\c algoritma ve çözümleri\dizi_en_kucuk_eleman\main.c
+	<stdio.h>
+	<conio.h>
+

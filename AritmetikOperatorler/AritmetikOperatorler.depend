@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600879669 source:c:\users\kenan\desktop\aritmetikoperatorler\main.c
+	<stdio.h>
+	<stdlib.h>
+

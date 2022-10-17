@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665688330 source:c:\users\kenan\desktop\c algoritma ve çözümleri\cikarma_ile_bolme\main.c
+	<stdio.h>
+	<conio.h>
+

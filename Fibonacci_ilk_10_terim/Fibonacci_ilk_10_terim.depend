@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665741014 source:c:\users\kenan\desktop\c algoritma ve çözümleri\fibonacci_ilk_10_terim\fibonacci.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665748996 source:c:\users\kenan\desktop\c algoritma ve çözümleri\1_63_sayilar_6_seferde_bul\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
